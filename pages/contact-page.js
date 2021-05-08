@@ -18,10 +18,10 @@ const Contact = () => {
                 </div>
                 <div className="mt-4">
                     <p className="font-bold">Address</p>
-                    <p className="text-xs mt-2 text-grey-600">city A</p>
+                    <p className="text-xs mt-2 text-grey-600">city B</p>
                     <p className="font-bold mt-3">E-mail</p>
-                    <p className="text-xs mt-2 text-grey-600">hoge@email</p>
-                    <p className="font-bold mt-3">Phone</p>
+                    <p className="text-xs mt-2 text-grey-600">hogehoge@email</p>
+                    <p className="font-bold mt-3">SmartPhone</p>
                     <p className="text-xs mt-2 text-grey-600">000-1234-5678</p>
                 </div>
                 <div className="mt-6 flex justify-around">
